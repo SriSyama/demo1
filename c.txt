@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added text in local repo
+=======
+modified in remore repo 
+>>>>>>> ee4a6236b12bfc181d3304462f1e51344c5ea79f
